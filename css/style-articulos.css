@@ -86,7 +86,7 @@
 }
 
 .proyMinArt{
-  background-image: url("../img/proyectos/proyecto\ 3.jpg");
+  background-image: url("../img/proyectos/proyecto1.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -99,8 +99,8 @@
   transform: scale(1.05);
 }
 
-.proyAutos{
-  background-image: url("../img/proyectos/proyecto\ 3.jpg");
+.proyOyT{
+  background-image: url("../img/proyectos/proyecto3.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -109,7 +109,7 @@
   transition-duration: 1s;
 }
 
-.proyAutos:hover{
+.proyOyT:hover{
   transform: scale(1.05);
 }
 
