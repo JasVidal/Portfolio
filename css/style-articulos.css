@@ -71,8 +71,8 @@
   font-weight: 400;
 }
 
-.proyRemeras{
-  background-image: url("../img/proyectos/proyecto_1.jpg");
+.proyMineblog{
+  background-image: url("../img/proyectos/proyecto1.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -81,12 +81,26 @@
   transition-duration: 1s;
 }
 
-.proyRemeras:hover{
+.proyMineblog:hover{
+  transform: scale(1.05);
+}
+
+.proyMinArt{
+  background-image: url("../img/proyectos/proyecto\ 3.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyMinArt:hover{
   transform: scale(1.05);
 }
 
 .proyAutos{
-  background-image: url("../img/proyectos/proyecto_2.jpg");
+  background-image: url("../img/proyectos/proyecto\ 3.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
