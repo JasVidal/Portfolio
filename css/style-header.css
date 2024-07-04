@@ -1,13 +1,21 @@
 .circuloPerfil{
     background-image:linear-gradient( to bottom, #9e36e1 ,var(--color-fondo));
-    height: 100%;
-    width:105px;
+    height: 95px;
+    width:90px;
   }
   
   .circuloPerfilGrande{
     background-image:linear-gradient( to bottom, #9e36e1 ,var(--color-fondo));
+    background-size:cover;
     width:265px;
-    height: auto;
+    height:270px;
+  }
+
+  .circuloPerfilGrande2{
+    background-image:linear-gradient( to bottom, #9e36e1 ,var(--color-fondo));
+    background-size:cover;
+    width:265px;
+    height:350px;
   }
   
   .Nombre{
