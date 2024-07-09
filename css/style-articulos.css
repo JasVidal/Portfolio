@@ -7,13 +7,13 @@
   color: white;
 }
 
-.icono_contacto_tel{
+.icono_contacto_wsp{
   color:   #9458e0  ;
   transition-duration: 1s;
   transition-property: color;
 }
-.icono_contacto_tel:hover{
-  color:    #ffffff   ;
+.icono_contacto_wsp:hover{
+  color:    #2eb552   ;
 }
 
 .icono_contacto_lin{
@@ -86,7 +86,7 @@
 }
 
 .proyMinArt{
-  background-image: url("../img/proyectos/proyecto1.jpg");
+  background-image: url("../img/proyectos/proyecto2.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
