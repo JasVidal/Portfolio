@@ -85,6 +85,20 @@
   transform: scale(1.05);
 }
 
+.proyTriviatopia{
+  background-image: url("../img/proyectos/Triviatopia.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyTriviatopia:hover{
+  transform: scale(1.05);
+}
+
 .proyMinArt{
   background-image: url("../img/proyectos/proyecto2.jpg");
   background-position: center;
@@ -113,8 +127,8 @@
   transform: scale(1.05);
 }
 
-.proyBlog{
-  background-image: url("../img/proyectos/blog_personal.jpg");
+.proyTextAnalyzer{
+  background-image: url("../img/proyectos/TextAnalyzer.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -123,7 +137,21 @@
   transition-duration: 1s;
 }
 
-.proyBlog:hover{
+.proyTextAnalyzer:hover{
+  transform: scale(1.05);
+}
+
+.proyMonitoDataverse{
+  background-image: url("../img/proyectos/proyecto4.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyMonitoDataverse:hover{
   transform: scale(1.05);
 }
 
