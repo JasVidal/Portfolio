@@ -72,7 +72,7 @@
 }
 
 .proyMineblog{
-  background-image: url("../img/proyectos/proyecto1.jpg");
+  background-image: url("../img/proyectos/Min-e\ blog.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -100,7 +100,7 @@
 }
 
 .proyMinArt{
-  background-image: url("../img/proyectos/proyecto2.jpg");
+  background-image: url("../img/proyectos/MinArt\ Studio.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -114,7 +114,7 @@
 }
 
 .proyOyT{
-  background-image: url("../img/proyectos/proyecto3.jpg");
+  background-image: url("../img/proyectos/Grupo\ O\ y\ T.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -142,7 +142,7 @@
 }
 
 .proyMonitoDataverse{
-  background-image: url("../img/proyectos/proyecto4.jpg");
+  background-image: url("../img/proyectos/Monito\ Huellitas.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 15px;
@@ -152,6 +152,230 @@
 }
 
 .proyMonitoDataverse:hover{
+  transform: scale(1.05);
+}
+
+.proyLuchitadeP{
+  background-image: url("../img/proyectos/Luchita\ de\ Polobaya.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyLuchitadeP:hover{
+  transform: scale(1.05);
+}
+
+.proyHaspe{
+  background-image: url("../img/proyectos/Haspe.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyHaspe:hover{
+  transform: scale(1.05);
+}
+
+.proyDocFraude{
+  background-image: url("../img/proyectos/Dr.\ Fraude.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyDocFraude:hover{
+  transform: scale(1.05);
+}
+
+.proyRodrigoPlanas{
+  background-image: url("../img/proyectos/Rodrigo\ Planas.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyRodrigoPlanas:hover{
+  transform: scale(1.05);
+}
+
+.proyRadiologica{
+  background-image: url("../img/proyectos/Radiologica.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyRadiologica:hover{
+  transform: scale(1.05);
+}
+
+.proyMantIns{
+  background-image: url("../img/proyectos/Mantenimientos\ Institucionales.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyMantIns:hover{
+  transform: scale(1.05);
+}
+
+.proyRyE{
+  background-image: url("../img/proyectos/R\ y\ E.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyRyE:hover{
+  transform: scale(1.05);
+}
+
+.proyDominioIn{
+  background-image: url("../img/proyectos/Dominio\ Inmobiliaria.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyDominioIn:hover{
+  transform: scale(1.05);
+}
+
+.proyStockC{
+  background-image: url("../img/proyectos/Stock\ Center.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyStockC:hover{
+  transform: scale(1.05);
+}
+
+.proyRedMar{
+  background-image: url("../img/proyectos/Red\ Maritima.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyRedMar:hover{
+  transform: scale(1.05);
+}
+
+.proyRosaAng{
+  background-image: url("../img/proyectos/Rosa\ Angelica.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyRosaAng:hover{
+  transform: scale(1.05);
+}
+
+.proyTPaw{
+  background-image: url("../img/proyectos/Pawoffice.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyTPaw:hover{
+  transform: scale(1.05);
+}
+
+.proyPlanVirt{
+  background-image: url("../img/proyectos/Planeta\ Virtual.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyPlanVirt:hover{
+  transform: scale(1.05);
+}
+
+.proyMAS{
+  background-image: url("../img/proyectos/Mas.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyMAS:hover{
+  transform: scale(1.05);
+}
+
+.proyIJTemis{
+  background-image: url("../img/proyectos/Instituto\ Juridico\ Temis.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyIJTemis:hover{
+  transform: scale(1.05);
+}
+
+.proyRuidoDigital{
+  background-image: url("../img/proyectos/Ruido\ Digital.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+  filter: brightness(50%);
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.proyRuidoDigital:hover{
   transform: scale(1.05);
 }
 
